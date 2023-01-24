@@ -1,0 +1,2246 @@
+fileFormatVersion: 2
+guid: d265885fd02fb984eb09c1daf0aa15e7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: decor4_0
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 743
+        width: 126
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64166d2c3f5834a4b94e504704f51c35
+      internalID: 1751548954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_1
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 906
+        width: 63
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af22ff40eefb7a419c0d85f51ab3a45
+      internalID: -1685975819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_2
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 832
+        width: 305
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2099d3f62d172df4e8451bf416f196ae
+      internalID: -216589553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_3
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 967
+        width: 118
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f61f526bdd158489947fb0157a127f
+      internalID: 2014799706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_4
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 854
+        width: 129
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4a91aace483e24fb58501d16693261
+      internalID: -1756578141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_5
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 806
+        width: 53
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c151063563ee83d4eb35196febe8d485
+      internalID: 1178565762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 748
+        width: 263
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58c38f0d7730964a8bb4b6b0aaf2d22
+      internalID: -1452591477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_7
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 880
+        width: 122
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1010b3fd4bd4e3b46bc4aad1379b95d3
+      internalID: 683255620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_8
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 800
+        width: 130
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42eb37b4170ecd4fabe967f4097bd4b
+      internalID: -866281552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_9
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 760
+        width: 299
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41738d593b33b8459f4d8c138aaf6ee
+      internalID: 1195458337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_10
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 802
+        width: 108
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1c75d7bd452a2408cf330d6aea09aa
+      internalID: 1464846454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_11
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 750
+        width: 92
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dfa3b55b009d54698342af1b42a17b
+      internalID: -597104023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_12
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 746
+        width: 73
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07695ccd9212b8e4ba8bbc9f1c17a4b2
+      internalID: 1691291095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_13
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 717
+        width: 299
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3a103fab57ae346973494b2ce36c54
+      internalID: 811391293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_14
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 714
+        width: 105
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597d42be1bef6ea49ab99081eebfe4d6
+      internalID: -360100709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 562
+        width: 51
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af60ddff346fdaf468ed98dad8d25b6b
+      internalID: 1785502962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_16
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 706
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2694acf93403a649880e7149bd964d3
+      internalID: -133850606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_17
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 706
+        width: 91
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc905957a467d847b7d1673dc62c959
+      internalID: 1004308252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_18
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 608
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fc6aacdb88a50459b3d8b6535bc6cb
+      internalID: 1354933359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_19
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 630
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e43e72b2b53a248956a8130c7ebcfe
+      internalID: 368361976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_20
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 630
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514e1b370bed4ed419d3a773b17bc66c
+      internalID: 795679895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_21
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 629
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb875560e89194445b29c50516c67a49
+      internalID: 1770589917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_22
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 626
+        width: 105
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082065c014dbf3c44b0271860ac1776f
+      internalID: -857871739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 563
+        width: 267
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a92eb2c4a9f1540ac28510e26261a6
+      internalID: 933536815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_24
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 606
+        width: 123
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483f42a1f7acb274fa0d8f1764d67136
+      internalID: -1301607770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_25
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 632
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e71d7dd072c8b47bf0b2cf69de22f5
+      internalID: 926638088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_26
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 564
+        width: 13
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bff4a848bc12674ca3ee376fc0e73ad
+      internalID: -1551363077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_27
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 562
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61e6de69ff975a458811191a71ca094
+      internalID: -528194011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_28
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 563
+        width: 77
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c17483bfa299dd44969bf6f522949d6
+      internalID: 2020047854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_29
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 562
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7903cd1bc7ef949ab024673051b0a0
+      internalID: -756600581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_30
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 417
+        width: 124
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dba30a231341ff468e8b7c3d6d636ec
+      internalID: -1285703624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_31
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 568
+        width: 165
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d55d99fb6447a45a249669687171df
+      internalID: 355921178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_32
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 565
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accefb3f94d3f7a4a82efbad106306f1
+      internalID: -2025645248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_33
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 565
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1702969fe0f3147b2749611f4837c9
+      internalID: -1559619207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_34
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 565
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd4b4a77af36e74983bb13656a0a377
+      internalID: -1012584979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 152
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0deaae51e671f64a80573d665d4463a
+      internalID: -1262071493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_36
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 467
+        width: 29
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882630c7a9de5a84793f0e2d99155a74
+      internalID: -691161184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_37
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 455
+        width: 21
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc054459cdf7a1742a245440c92f28f6
+      internalID: 2140674923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_38
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 460
+        width: 49
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996b4bd42731f9e4cafa796088d19b05
+      internalID: -443408973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_39
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 516
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e79b88fecc6324f91484596090485a
+      internalID: 1160137743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_40
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 434
+        width: 60
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62104ab5733e85948914c4af657b0423
+      internalID: -1280148817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_41
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 548
+        width: 167
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebce446a7212284a836d8471641bf06
+      internalID: -540556903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_42
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 513
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcccf63e8524e6a4bad199adddb74ea6
+      internalID: -408934819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_43
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 533
+        width: 102
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4a5a4dec9ccc241a9a9124119ac4f2
+      internalID: -360860569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_44
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 533
+        width: 185
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd8fe36798fecc4787249f18f9744de
+      internalID: -683993615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_45
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 520
+        width: 66
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8311cf46e5c824a9921246597d1fb4
+      internalID: -1367748039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_46
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 504
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c567702a0a6b34785c3fffd6ab1a89
+      internalID: 1580339630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_47
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 508
+        width: 115
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c11c2c017a05804183d07a055fac06f
+      internalID: 1889778563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_48
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 433
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99187078470531a4ca1695d5a8ca9c6d
+      internalID: 140915991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_49
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 505
+        width: 55
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a209433e205fb419b26e02352774e0
+      internalID: 1137523541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_50
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 339
+        width: 169
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eff708eb4d2bcc4882e83ba3a701806
+      internalID: 1530735227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_51
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 490
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6130ac4ff7189444ad552df509eb6ac
+      internalID: 112437741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_52
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 479
+        width: 76
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6f4b459fe672c47a3bec8473ea6744
+      internalID: 529226423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_53
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 431
+        width: 75
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30de08eca39a8544ba406a45d9764e4c
+      internalID: -688600265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_54
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 433
+        width: 82
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1eafbb204bf6184fa1be3028771c39c
+      internalID: -591680582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 330
+        width: 158
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b229f02813b18434b914811174458a8f
+      internalID: -1513466818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_56
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 336
+        width: 63
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f852ea996ec1e474e834c86a17766900
+      internalID: -813300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_57
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 329
+        width: 110
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6865d7f0d15d225409f1ce134d0817c1
+      internalID: -1189526993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_58
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 329
+        width: 111
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c06aa6f15d18547b6272097426ecba
+      internalID: -628457849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_59
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 160
+        width: 213
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61004fcc6603119458a5ccb90f3c9d38
+      internalID: 512629385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_60
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 224
+        width: 104
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c463010757a3ac94eab1823eae69b452
+      internalID: -659351787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_61
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 257
+        width: 73
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf166b2a93e6e54d9a1a2be7a5aab4e
+      internalID: 294869253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_62
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 258
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48a0c99679a7614291b764c6eb69b5f
+      internalID: -2054136595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_63
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2
+        width: 108
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4deaae353ea7b454ea9d7fe5a405b87b
+      internalID: -1458770149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_64
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 177
+        width: 101
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3b1fc26b7d3ea44bcda394c8dfb22b
+      internalID: 1918710833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_65
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 180
+        width: 121
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3c99124d5586a4c8c9ee7f720d33e4
+      internalID: -507550543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_66
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 178
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5598eceb90c0e8e478a30a3515a9f61f
+      internalID: -759613790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_67
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 12
+        width: 309
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c747e28a7e40944aba6ebb2d81bc85d
+      internalID: -1021525654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_68
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 2
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0abf4828ec7e364480ac1d6adfd7c9a
+      internalID: 1014484847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_69
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 30
+        width: 115
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c1ef84337256546bc559d7d41dff76
+      internalID: -1649778025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_70
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 9
+        width: 143
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0692bec26c7a93243a3d3b0afc29a726
+      internalID: 1170779302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_71
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1
+        width: 83
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3868ee601147b842b6c2da452c9de9b
+      internalID: -1032964935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_72
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 800
+        width: 125
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d786a9327659ad479fd387ab9134de7
+      internalID: 1598837300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_73
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 851
+        width: 124
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c83280b04f728341a5b211f9f9ca532
+      internalID: 1984598444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_74
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 905
+        width: 63
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7429c35da20a32f41ba9095dedddd637
+      internalID: 1173636866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_75
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 904
+        width: 63
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972609d34fe08db41994bf9f459fa47a
+      internalID: -1519535416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_76
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 905
+        width: 60
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3f7642b2baa9a46be8b1556cc77e40
+      internalID: 1872318869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_77
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 906
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3155e094f420764894b3f91644b39bc
+      internalID: 902675611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_78
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 908
+        width: 63
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d843e7beb30a9244afdfb34ca053daf
+      internalID: 1086294668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_79
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 703
+        width: 165
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821f8ed96eccef048a2f36c862794a1b
+      internalID: 1566870400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_80
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 702
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e8c5f962facb64681ac0445fd64139
+      internalID: 785894484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_81
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 708
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cbd8504e618a247a53394d4c85d7da
+      internalID: 1398662568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_82
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 350
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f0996024e29a6439596be6e681fd70
+      internalID: 854204955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_83
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 257
+        width: 19
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdd66ea6703d4941bb8a3d26653e12e
+      internalID: -1910491521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_84
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 273
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce8c960943debd48b2c63687e10859f
+      internalID: -1032783079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_85
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 5
+        width: 215
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e80090995dd8064382fec4107a89721
+      internalID: 578802315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_86
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 177
+        width: 172
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8614879cc7dd00449a98712ebe1f0ea0
+      internalID: 1932483522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_87
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 432
+        width: 88
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3de79983549544790f2514552824b2
+      internalID: -1511101491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_88
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 507
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d70baf36acdb745a3dfd33a18ae494
+      internalID: -370817992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_89
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 571
+        width: 72
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732e19ba3b51af14d8c2a8bace926065
+      internalID: 995028861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_90
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 562
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d5433717291274c85f66c305cec883
+      internalID: -770339373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_91
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 618
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd029af32ca160646884912ff0eb9ccb
+      internalID: 1144639292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_92
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 701
+        width: 124
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b96ef0c5a4c0224db1287416e9a716c
+      internalID: -1400224083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_93
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 59
+        width: 120
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f709ef220576c4488e183c0c68d72cc
+      internalID: 400849154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_94
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 336
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012958f5ea0bb2642a745c95adb95c68
+      internalID: -777901522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decor4_95
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 563
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cc9f3b86cc57443bc768a2f2d49e1d
+      internalID: -326629744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3a66633dbbfc567479988e9f8033d01f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      decor4_12: 1691291095
+      decor4_44: -683993615
+      decor4_49: 1137523541
+      decor4_74: 1173636866
+      decor4_77: 902675611
+      decor4_48: 140915991
+      decor4_64: 1918710833
+      decor4_17: 1004308252
+      decor4_84: -1032783079
+      decor4_51: 112437741
+      decor4_14: -360100709
+      decor4_83: -1910491521
+      decor4_6: -1452591477
+      decor4_27: -528194011
+      decor4_91: 1144639292
+      decor4_35: -1262071493
+      decor4_1: -1685975819
+      decor4_86: 1932483522
+      decor4_3: 2014799706
+      decor4_70: 1170779302
+      decor4_31: 355921178
+      decor4_71: -1032964935
+      decor4_37: 2140674923
+      decor4_32: -2025645248
+      decor4_10: 1464846454
+      decor4_61: 294869253
+      decor4_63: -1458770149
+      decor4_87: -1511101491
+      decor4_93: 400849154
+      decor4_11: -597104023
+      decor4_24: -1301607770
+      decor4_23: 933536815
+      decor4_26: -1551363077
+      decor4_78: 1086294668
+      decor4_68: 1014484847
+      decor4_59: 512629385
+      decor4_0: 1751548954
+      decor4_62: -2054136595
+      decor4_8: -866281552
+      decor4_34: -1012584979
+      decor4_43: -360860569
+      decor4_22: -857871739
+      decor4_80: 785894484
+      decor4_2: -216589553
+      decor4_50: 1530735227
+      decor4_54: -591680582
+      decor4_76: 1872318869
+      decor4_72: 1598837300
+      decor4_30: -1285703624
+      decor4_4: -1756578141
+      decor4_20: 795679895
+      decor4_94: -777901522
+      decor4_65: -507550543
+      decor4_85: 578802315
+      decor4_73: 1984598444
+      decor4_41: -540556903
+      decor4_90: -770339373
+      decor4_57: -1189526993
+      decor4_82: 854204955
+      decor4_58: -628457849
+      decor4_33: -1559619207
+      decor4_39: 1160137743
+      decor4_66: -759613790
+      decor4_53: -688600265
+      decor4_40: -1280148817
+      decor4_88: -370817992
+      decor4_38: -443408973
+      decor4_81: 1398662568
+      decor4_67: -1021525654
+      decor4_46: 1580339630
+      decor4_47: 1889778563
+      decor4_18: 1354933359
+      decor4_13: 811391293
+      decor4_16: -133850606
+      decor4_60: -659351787
+      decor4_29: -756600581
+      decor4_36: -691161184
+      decor4_15: 1785502962
+      decor4_19: 368361976
+      decor4_45: -1367748039
+      decor4_69: -1649778025
+      decor4_7: 683255620
+      decor4_56: -813300270
+      decor4_5: 1178565762
+      decor4_55: -1513466818
+      decor4_52: 529226423
+      decor4_89: 995028861
+      decor4_79: 1566870400
+      decor4_95: -326629744
+      decor4_25: 926638088
+      decor4_28: 2020047854
+      decor4_75: -1519535416
+      decor4_92: -1400224083
+      decor4_9: 1195458337
+      decor4_21: 1770589917
+      decor4_42: -408934819
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
