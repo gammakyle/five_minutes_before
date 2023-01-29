@@ -23,10 +23,10 @@ You can download the assembled version of the game and evaluate it: [download]
 ## Screenshots 🖥
 | Description          | Screenshot |
 |--------------:|-----------:|
-| Game start menu  |![](https://github.com/gammakyle/five_minutes_before/blob/main/screenshots/fmb1.png?raw=true) 
-| Dialogue with a character  |![](https://github.com/gammakyle/five_minutes_before/blob/main/screenshots/fmb2.png?raw=true) 
-| Game object interaction  |![](https://github.com/gammakyle/five_minutes_before/blob/main/screenshots/fmb3.png?raw=true) 
-| Just a group of dudes. Be simple.  |![](https://github.com/gammakyle/five_minutes_before/blob/main/screenshots/fmb4.png?raw=true) 
+| Game start menu  |![](https://github.com/gammakyle/gammakyle.github.io/blob/main/other_projects/five_minutes_before/screenshots/fmb1.png?raw=true) 
+| Dialogue with a character  |![](https://github.com/gammakyle/gammakyle.github.io/blob/main/other_projects/five_minutes_before/screenshots/fmb2.png?raw=true) 
+| Game object interaction  |![](https://github.com/gammakyle/gammakyle.github.io/blob/main/other_projects/five_minutes_before/screenshots/fmb3.png?raw=true) 
+| Just a group of dudes. Be simple.  |![](https://github.com/gammakyle/gammakyle.github.io/blob/main/other_projects/five_minutes_before/screenshots/fmb4.png?raw=true) 
 
 ## Thanks 💌
 Many thanks to volga-it 22 and mobirate company for organizing the event.
